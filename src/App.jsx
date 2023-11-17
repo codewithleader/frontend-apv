@@ -7,7 +7,7 @@ import Register from './pages/Register';
 import VerifyAccount from './pages/VerifyAccount';
 import ResetPassword from './pages/ResetPassword';
 import NewPassword from './pages/NewPassword';
-import Login from './pages/login';
+import Login from './pages/Login';
 import AdminPatients from './pages/AdminPatients';
 import EditProfile from './pages/EditProfile';
 import ChangePassword from './pages/changePassword';
