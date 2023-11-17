@@ -5,9 +5,9 @@ const Header = () => {
   const { logout } = useAuth();
 
   return (
-    <header className='py-10 bg-indigo-600'>
+    <header className='py-10 bg-emerald-600'>
       <div className='container mx-auto flex flex-col lg:flex-row justify-between items-center'>
-        <h1 className='font-bold text-2xl text-center text-indigo-200'>
+        <h1 className='font-bold text-2xl text-center text-emerald-200'>
           Administrador de Pacientes de{' '}
           <span className='text-white'>Veterinaria</span>
         </h1>

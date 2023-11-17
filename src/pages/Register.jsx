@@ -76,7 +76,7 @@ const Register = () => {
   return (
     <>
       <div>
-        <h1 className='text-indigo-600 font-black text-6xl'>
+        <h1 className='text-emerald-600 font-black text-6xl'>
           Crea tu Cuenta y Administra tus{' '}
           <span className='text-black'>Pacientes</span>
         </h1>
@@ -138,7 +138,7 @@ const Register = () => {
             disabled={isDisabled}
             type='submit'
             value='Crear Cuenta'
-            className='bg-indigo-700 w-full py-3 px-10 rounded-xl text-white uppercase font-bold mt-5 hover:cursor-pointer hover:bg-indigo-800 md:w-auto disabled:bg-gray-400 disabled:hover:cursor-not-allowed'
+            className='bg-emerald-700 w-full py-3 px-10 rounded-xl text-white uppercase font-bold mt-5 hover:cursor-pointer hover:bg-emerald-800 md:w-auto disabled:bg-gray-400 disabled:hover:cursor-not-allowed'
           />
         </form>
 

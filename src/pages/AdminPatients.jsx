@@ -10,7 +10,7 @@ const AdminPatients = () => {
       <button
         //
         type='button'
-        className='md:hidden bg-indigo-600 text-white font-bold uppercase mx-10 p-3 rounded-md mb-10'
+        className='md:hidden bg-emerald-600 text-white font-bold uppercase mx-10 p-3 rounded-md mb-10'
         onClick={() => setShowForm(!showForm)}
       >
         {showForm ? 'Ocultar Formulario' : 'Mostrar Formulario'}

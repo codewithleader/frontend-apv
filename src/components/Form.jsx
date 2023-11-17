@@ -75,7 +75,7 @@ const Form = () => {
     <>
       <p className='text-xl mt-5 mb-10 text-center'>
         Añade tus pacientes y{' '}
-        <span className='text-indigo-600 font-bold'>Administralos</span>
+        <span className='text-emerald-600 font-bold'>Administralos</span>
       </p>
 
       <form
@@ -180,7 +180,7 @@ const Form = () => {
           disabled={isDisabled}
           type='submit'
           value={id ? 'Guardar Cambios' : 'Agregar Paciente'}
-          className='bg-indigo-600 w-full p-3 text-white uppercase font-bold hover:bg-indigo-700 cursor-pointer transition-colors disabled:bg-gray-400 disabled:hover:cursor-not-allowed'
+          className='bg-emerald-600 w-full p-3 text-white uppercase font-bold hover:bg-emerald-700 cursor-pointer transition-colors disabled:bg-gray-400 disabled:hover:cursor-not-allowed'
         />
       </form>
 

@@ -32,7 +32,7 @@ const VerifyAccount = () => {
   return (
     <>
       <div>
-        <h1 className='text-indigo-600 font-black text-6xl'>
+        <h1 className='text-emerald-600 font-black text-6xl'>
           Confirma tu Cuenta y comienza a Administrar tus{' '}
           <span className='text-black'>Pacientes</span>
         </h1>

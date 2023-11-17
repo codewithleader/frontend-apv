@@ -52,7 +52,7 @@ const EditProfile = () => {
       <h2 className='font-black text-3xl text-center mt-10'>Editar Perfil</h2>
       <p className='text-xl mt-5 mb-10 text-center'>
         Modifica tu{' '}
-        <span className='text-indigo-600 font-bold'>Información aquí</span>
+        <span className='text-emerald-600 font-bold'>Información aquí</span>
       </p>
 
       <div className='flex justify-center'>
@@ -135,7 +135,7 @@ const EditProfile = () => {
               disabled={isDisabled}
               type='submit'
               value='Guardar Cambios'
-              className='bg-indigo-700 px-10 py-3 font-bold text-white rounded-lg uppercase w-full mt-5
+              className='bg-emerald-700 px-10 py-3 font-bold text-white rounded-lg uppercase w-full mt-5
               disabled:bg-gray-400 disabled:hover:cursor-not-allowed'
             />
           </form>
