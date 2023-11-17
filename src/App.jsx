@@ -10,7 +10,7 @@ import NewPassword from './pages/NewPassword';
 import Login from './pages/Login';
 import AdminPatients from './pages/AdminPatients';
 import EditProfile from './pages/EditProfile';
-import ChangePassword from './pages/changePassword';
+import ChangePassword from './pages/ChangePassword';
 
 function App() {
   return (
